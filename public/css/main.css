@@ -17924,19 +17924,19 @@ video {
   }
 }
 
-@-webkit-keyframes spin {
+@-webkit-keyframes spinner {
   to {
     transform: rotate(360deg);
   }
 }
 
-@keyframes spin {
+@keyframes spinner {
   to {
     transform: rotate(360deg);
   }
 }
 
-.spin:before {
+.spinner:before {
   content: '';
   box-sizing: border-box;
   position: absolute;
